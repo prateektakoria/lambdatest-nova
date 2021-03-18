@@ -1,5 +1,5 @@
 <h1>Lambdatest Nova</h1>
-<h3> About Laravel <h3>
+<h3> About Laravel </h3>
 
 <p>Laravel Nova (https://nova.laravel.com) is an excellent tool to create admin interfaces having usual CRUD applications in minutes. It can be extended to add custom functionalities too. With rich documentation (https://nova.laravel.com/docs/) and a very large ecosystem there are several thousands plugins/extensions which makes writing custom functionalities very easy.</p>
 
