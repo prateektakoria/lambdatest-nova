@@ -32,12 +32,12 @@ Through this exercise you will get to know:
 - Go to your root directory again and run migrations
 - <b>php artisan migrate</b>
 - <b>php artisan serve</b> : Start the project
-- Open localhost:8000 on your machine. Please check below screenshot to reach explore more.
+- Open <b>localhost:8000</b> in your browser. Click on the first Link.
 </p>
 
-<p align="center"><img src="https://drive.google.com/file/d/12v1_x_ixhUuUQgUwcgihq3dvAZf6STBZ/view?usp=sharing" width="500"></p>
-<p align="center"><img src="https://drive.google.com/file/d/1tXELMtruF4rQ1ET36lurPGI5lvOR0ZHR/view?usp=sharing" width="500"></p>
-<p align="center"><img src="https://drive.google.com/file/d/1qmCj5aktNvk6nzcQO0bncrTtSjPpHu1o/view?usp=sharing" width="500"></p>
+![ScreenShot](/images/screenshot-1.jpg)
+![ScreenShot](/images/screenshot-2.jpg)
+![ScreenShot](/images/screenshot-3.jpg)
 
 ## License
 
