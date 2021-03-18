@@ -36,7 +36,9 @@ Through this exercise you will get to know:
 </p>
 
 ![ScreenShot](/images/screenshot-1.jpg)
+
 ![ScreenShot](/images/screenshot-2.jpg)
+
 ![ScreenShot](/images/screenshot-3.jpg)
 
 ## License
