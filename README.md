@@ -35,11 +35,11 @@ Through this exercise you will get to know:
 - Open <b>localhost:8000</b> in your browser. Click on the first Link.
 </p>
 
-![ScreenShot](/images/screenshot-1.jpg)
+![ScreenShot](public/images/screenshot-1.jpg)
 
-![ScreenShot](/images/screenshot-2.jpg)
+![ScreenShot](public/images/screenshot-2.jpg)
 
-![ScreenShot](/images/screenshot-3.jpg)
+![ScreenShot](public/images/screenshot-3.jpg)
 
 ## License
 
