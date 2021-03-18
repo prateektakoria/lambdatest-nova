@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4f7917e108435d126d7552285c479a59",
+    "content-hash": "5d67d10645255910018c2dab614048fd",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1239,6 +1239,42 @@
                 "url"
             ],
             "time": "2020-09-30T07:37:11+00:00"
+        },
+        {
+            "name": "lambdatestv1/currency-converter",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "./nova-components/CurrencyConverter",
+                "reference": "472484a10810592d95b018928aafaab527da9a1b"
+            },
+            "require": {
+                "php": ">=7.1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Lambdatestv1\\CurrencyConverter\\ToolServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Lambdatestv1\\CurrencyConverter\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "description": "A Laravel Nova tool.",
+            "keywords": [
+                "laravel",
+                "nova"
+            ],
+            "transport-options": {
+                "relative": true
+            }
         },
         {
             "name": "laravel/framework",

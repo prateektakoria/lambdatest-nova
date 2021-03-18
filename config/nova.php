@@ -99,10 +99,10 @@ return [
 
     'middleware' => [
         'web',
-        Authenticate::class,
+        // Authenticate::class,
         DispatchServingNovaEvent::class,
         BootTools::class,
-        Authorize::class,
+        // Authorize::class,
     ],
 
     /*
