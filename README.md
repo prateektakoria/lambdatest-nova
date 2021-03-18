@@ -16,9 +16,23 @@ Through this exercise you will get to know:
 <p>This project has a few requirements you should be aware of before installing:
 
 - Composer
-- Laravel Framework 7.0+
-- Laravel Mix
-- Node.js & NPM </p>
+- PHP 7.3+ </p>
+
+<h3> Installation </h3>
+<p>Follow these steps to install this project on your local machine.
+
+- git clone https://github.com/prateektakoria/lambdatest-nova.git : Clone this repository using this command in your terminal: 
+- composer update : Run this command to update all the dependencies of this project
+- cp .env.example .env : Copy .env.example file to .env file using this command
+- php artisan key:generate (This command will generate your application for the project)
+- Update your database credentials in the .env file
+- npm install : Run this command to get all the node modules in your root directory
+- cd /nova-components/CurrencyConverter : Run this command to go to our tools directory
+- npm install : Run this command to update node modules for our tool
+- Go to your root directory again and run migrations
+- php artisan migrate
+- php artisan serve : Start the project
+</p>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
