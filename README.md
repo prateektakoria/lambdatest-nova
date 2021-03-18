@@ -1,3 +1,22 @@
+<h1>About Lambdatest Nova</h1>
+<p align="center">
+    Laravel Nova (https://nova.laravel.com) is an excellent tool to create admin interfaces having usual CRUD applications in minutes. It can be extended to add custom functionalities too. With rich documentation (https://nova.laravel.com/docs/) and a very large ecosystem there are several thousands plugins/extensions which makes writing custom functionalities very easy.<br>
+
+    We want you to create a custom tool in Nova which shows INR v/s USD, INR v/s GBP and INR v/s EUR currency rates in small widgets in a custom page. https://nova.laravel.com/docs/3.0/customization/tools.html <br>
+
+    You can use the API endpoint: https://api.exchangeratesapi.io/latest?base=INR to fetch the exchange rates.<br>
+
+    Through this exercise you will get to know:
+    1. How to build powerful backend interfaces quickly
+    2. How Vue.js works
+    3. How webpack works (to compile/build)
+</p>
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
