@@ -1,5 +1,5 @@
 <h1>Lambdatest Nova</h1>
-<h3> About Laravel </h3>
+<h3> About Project </h3>
 
 <p>Laravel Nova (https://nova.laravel.com) is an excellent tool to create admin interfaces having usual CRUD applications in minutes. It can be extended to add custom functionalities too. With rich documentation (https://nova.laravel.com/docs/) and a very large ecosystem there are several thousands plugins/extensions which makes writing custom functionalities very easy.</p>
 
@@ -12,8 +12,13 @@ Through this exercise you will get to know:
 2. How Vue.js works
 3. How webpack works (to compile/build)</p>
 
+<h3> Requirements </h3>
+<p>This project has a few requirements you should be aware of before installing:
 
-
+- Composer
+- Laravel Framework 7.0+
+- Laravel Mix
+- Node.js & NPM </p>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
